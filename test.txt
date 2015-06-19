@@ -16,3 +16,5 @@ balabalabala...
 
 	我在devfoxmail分支上继续开发ing。。。
 
+终于。。。。一个稳定的版本完成了，于是我要合并到dev分支，再合并到master分支上去！congratulations！！！
+
