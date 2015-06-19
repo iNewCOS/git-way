@@ -3,3 +3,8 @@ which username
 我在ubuntu 系统下，并建了一个dev分支。
 
 测试一下git merge --no-ff，查看log。
+
+建了个项目，今后就再dev分支上开发了，开发完成后再合并到master分支上。。。
+	我发现本地机的仓库已经先于远程库两个版本了。于是先从dev分支切换到master分支，把master分支推送到远程库。
+
+	推送到远程库后，再切换到dev分支，发现本文件只到了5行，6,7,8行都不见了。。。。原来：在dev分支没有commit或stash就切换到master，在master分之下加上第8行，commit后，原dev分支的东西就不见了。。。 （这里要特别注意)
