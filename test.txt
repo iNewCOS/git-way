@@ -15,3 +15,6 @@ balabalabala...
 团队壮大了，不是自己单打独斗了。。。来了两个人：dingtalk，gmail。（我是foxmail）,于是，我再dev分支上建了devfoxmail分支，dingtalk将在dev分支上建devdingtalk分支，以此类推。这样我们各自在自己的分支上工作，然后合并到dev分支上。等一个版本稳定后，把dev分支在推送到master分支上！
 
 我再dev分支上，我想把本地的dev分支推送到远程库，这样dingtalk和gmail二人就可以协作开发这个项目啦！
+
+	我在devfoxmail分支上继续开发ing。。。
+
