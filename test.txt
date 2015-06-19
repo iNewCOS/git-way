@@ -1,3 +1,5 @@
 which username
 
 我在ubuntu 系统下，并建了一个dev分支。
+
+测试一下git merge --no-ff，查看log。
