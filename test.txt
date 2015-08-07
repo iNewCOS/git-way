@@ -20,3 +20,5 @@ balabalabala...
 
 终于。。。。一个稳定的版本完成了，于是我要合并到dev分支，再合并到master分支上去！congratulations！！！
 
+foxmail 回到win7，git pull origin master 和 git checkout -b dev origin/dev后，继续在 dev上开发。。。
+
