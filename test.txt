@@ -1,1 +1,22 @@
 which username
+
+我(my name is foxmail)在ubuntu 系统下，并建了一个dev分支.
+
+测试一下git merge --no-ff，查看log。
+
+建了个项目，今后就再dev分支上开发了，开发完成后再合并到master分支上。。。
+	我发现本地机的仓库已经先于远程库两个版本了。于是先从dev分支切换到master分支，把master分支推送到远程库。
+
+	推送到远程库后，再切换到dev分支，发现本文件只到了5行，6,7,8行都不见了。。。。原来：在dev分支没有commit或stash就切换到master，在master分之下加上第8行，commit后，原dev分支的东西就不见了。。。 （这里要特别注意)
+
+在dev 分支上继续开发了。。。balabala...
+balabalabala...
+
+团队壮大了，不是自己单打独斗了。。。来了两个人：dingtalk，gmail。（我是foxmail）,于是，我再dev分支上建了devfoxmail分支，dingtalk将在dev分支上建devdingtalk分支，以此类推。这样我们各自在自己的分支上工作，然后合并到dev分支上。等一个版本稳定后，把dev分支在推送到master分支上！
+
+我再dev分支上，我想把本地的dev分支推送到远程库，这样dingtalk和gmail二人就可以协作开发这个项目啦！
+
+	我在devfoxmail分支上继续开发ing。。。
+
+终于。。。。一个稳定的版本完成了，于是我要合并到dev分支，再合并到master分支上去！congratulations！！！
+
